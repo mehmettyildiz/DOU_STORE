@@ -12,15 +12,13 @@ namespace dou_store.webui.Data
         {
             _products = new List<Product>
             {
-                new Product {ProductId=1,Name="Iphone 7",Price=3000,Description="iyi telefon",IsApproved=false, ImageUrl="1.jpg",CategoryId=1},
-                new Product {ProductId=2,Name="Iphone 8",Price=4000,Description="çok iyi telefon",IsApproved=true, ImageUrl="2.jpg",CategoryId=1},
-                new Product {ProductId=3,Name="Iphone X",Price=5000,Description="çok iyi telefon",IsApproved=true, ImageUrl="3.jpg",CategoryId=1},
-                new Product {ProductId=4,Name="Iphone 11",Price=7000,Description="çok iyi telefon", ImageUrl="4.jpg",CategoryId=1},
-                new Product {ProductId=5,Name="Iphone 12",Price=7000,Description="çok iyi telefon", ImageUrl="4.jpg",CategoryId=1},
-                new Product {ProductId=6,Name="Lenova 7",Price=3000,Description="iyi bilgisayar",IsApproved=false, ImageUrl="1.jpg",CategoryId=2},
-                new Product {ProductId=7,Name="Lenova 8",Price=4000,Description="çok iyi bilgisayar",IsApproved=true, ImageUrl="2.jpg",CategoryId=2},
-                new Product {ProductId=8,Name="Lenova X",Price=5000,Description="çok iyi bilgisayar",IsApproved=true, ImageUrl="3.jpg",CategoryId=2},
-                new Product {ProductId=9,Name="Lenova 11",Price=7000,Description="çok iyi bilgisayar", ImageUrl="4.jpg",CategoryId=2}
+                new Product {ProductId=1,Name="Bordo Mont 2021",Price=250,Description="Bordo Mont 2021",IsApproved=false, ImageUrl="1.jpg",CategoryId=1},
+                new Product {ProductId=2,Name="Kırmızı Mont 2022",Price=400,Description="Kırmızı Mont 2022",IsApproved=true, ImageUrl="kmont.jpeg",CategoryId=1},
+                new Product {ProductId=3,Name="Kırmızı Termos",Price=5000,Description="Kırmızı Termos",IsApproved=true, ImageUrl="ktermos.jpeg",CategoryId=2},
+                new Product {ProductId=4,Name="Siyah Termos",Price=7000,Description="Siyah Termos", ImageUrl="stermos.jpeg",CategoryId=2},
+                new Product {ProductId=5,Name="USB",Price=7000,Description="USB", ImageUrl="usb.jpeg",CategoryId=3},
+                new Product {ProductId=6,Name="Mühendis Beyinler Kulübü Sweat",Price=3000,Description="Mühendis Beyinler Kulübü Sweat",IsApproved=false, ImageUrl="mbk.jpeg",CategoryId=4},
+            
             };
         }
 

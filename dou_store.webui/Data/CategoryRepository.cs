@@ -11,10 +11,10 @@ namespace dou_store.webui.Data
         {
             _categories = new List<Category>
             {
-                new Category {CategoryId=1,Name="Telefon",Description="Telefon Kategorisi"},
-                new Category {CategoryId=2,Name="Bilgisayar",Description="Bilgisayar Kategorisi"},
-                new Category {CategoryId=3,Name="Elektronik",Description="Elektronik Kategorisi"},
-                new Category {CategoryId=4,Name="Kitap",Description="Kitap Kategorisi"}
+                new Category {CategoryId=1,Name="MONT",Description="MONT Kategorisi"},
+                new Category {CategoryId=2,Name="TERMOS",Description="Termos Kategorisi"},
+                new Category {CategoryId=3,Name="ELEKTRONİK",Description="Elektronik Kategorisi"},
+                new Category {CategoryId=4,Name="KULÜP ÜRÜNLERİ",Description="Kulüp Kategorisi"}
             };
         }
 
