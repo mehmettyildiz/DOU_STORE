@@ -1,0 +1,544 @@
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+C:\Users\sadikturan\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+C:\Users\sadikturan\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sadikturan\Desktop\dou_store\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+D:\dou_store_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.AssemblyReference.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.GeneratedMSBuildEditorConfig.editorconfig
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CoreCompileInputs.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Pack.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.dou_store.webui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.dou_store.webui.props
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.dou_store.webui.props
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.dou_store.webui.props
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.genruntimeconfig.cache
+D:\dou_store_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+D:\shopapp_vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.AssemblyReference.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.GeneratedMSBuildEditorConfig.editorconfig
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CoreCompileInputs.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Pack.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.dou_store.webui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.dou_store.webui.props
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.dou_store.webui.props
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.dou_store.webui.props
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.genruntimeconfig.cache
+D:\shopapp_vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\global.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package-lock.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\package.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.exe
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.deps.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.runtimeconfig.dev.json
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.dll
+D:\dou_store vers1\dou_store.webui\bin\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.AssemblyReference.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.GeneratedMSBuildEditorConfig.editorconfig
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfoInputs.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.AssemblyInfo.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CoreCompileInputs.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.MvcApplicationPartsAssemblyInfo.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorAssemblyInfo.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Manifest.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\dou_store.webui.StaticWebAssets.Pack.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.dou_store.webui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.dou_store.webui.props
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.dou_store.webui.props
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.dou_store.webui.props
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.input.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.TagHelpers.output.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorCoreGenerate.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.RazorTargetAssemblyInfo.cs
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.Views.pdb
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.dll
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.pdb
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.genruntimeconfig.cache
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\dou_store.webui.csproj.CopyComplete
+D:\dou_store vers1\dou_store.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
