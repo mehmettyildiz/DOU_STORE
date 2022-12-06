@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dou_store vers1\\dou_store.webui\\dou_store.webui.csproj": {}
+    "C:\\Users\\mehme\\Desktop\\DOU_STORE\\dou_store.webui\\dou_store.webui.csproj": {}
   },
   "projects": {
-    "D:\\dou_store vers1\\dou_store.webui\\dou_store.webui.csproj": {
+    "C:\\Users\\mehme\\Desktop\\DOU_STORE\\dou_store.webui\\dou_store.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dou_store vers1\\dou_store.webui\\dou_store.webui.csproj",
+        "projectUniqueName": "C:\\Users\\mehme\\Desktop\\DOU_STORE\\dou_store.webui\\dou_store.webui.csproj",
         "projectName": "dou_store.webui",
-        "projectPath": "D:\\dou_store vers1\\dou_store.webui\\dou_store.webui.csproj",
-        "packagesPath": "C:\\Users\\mertcan.yuksel\\.nuget\\packages\\",
-        "outputPath": "D:\\dou_store vers1\\dou_store.webui\\obj\\",
+        "projectPath": "C:\\Users\\mehme\\Desktop\\DOU_STORE\\dou_store.webui\\dou_store.webui.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehme\\Desktop\\DOU_STORE\\dou_store.webui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mertcan.yuksel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
